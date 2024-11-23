@@ -1,6 +1,11 @@
-Proje Adı: StoryChain
+StoryChain
+Blockchain Tabanlı Hikaye Yazma ve Oylama Platformu
 
-Açıklama:
-StoryChain, kullanıcıların bir hikaye oluşturup devamlarını yazabileceği ve diğer kullanıcıların katkılarını oylayarak en iyi devamı seçebileceği, blockchain tabanlı bir hikaye yazma platformudur. Hikayeler ve devamlar, merkezi olmayan bir yapıda saklanır ve tüm veriler, DFINITY Internet Computer üzerinde çalışan bir akıllı sözleşme (canister) ile güvence altına alınır.
+StoryChain, kullanıcıların yaratıcı hikayeler oluşturmasını ve topluluk katkılarıyla bu hikayeleri geliştirmesini sağlayan bir blockchain tabanlı platformdur. Hikayeler ve eklemeler, merkezi olmayan bir yapıda güvenle saklanır ve oylama işlemleri şeffaf bir şekilde gerçekleştirilir.
 
-Her kullanıcı yeni bir hikaye başlatabilir veya mevcut hikayelere devam ekleyebilir. Hikayeye yapılan devamlar diğer kullanıcılar tarafından oylanır, böylece topluluğun en beğendiği katkılar belirlenir. Blockchain teknolojisi sayesinde oylama işlemleri şeffaf ve manipülasyona dayanıklıdır. Platform, hem yaratıcı yazım süreçlerini desteklemeyi hem de kullanıcıların katkılarının güvenli bir şekilde saklanmasını sağlamayı hedefler.
+Öne Çıkan Özellikler
+Hikaye Oluşturma: Kullanıcılar yeni hikayeler başlatabilir.
+Devam Ekleme: Mevcut hikayelere katkıda bulunarak yaratıcılığı artırabilirsiniz.
+Oylama Sistemi: Topluluk, en iyi katkıları seçmek için hikaye devamlarını oylayabilir.
+Blockchain Güvencesi: Veriler DFINITY Internet Computer üzerinde güvenle saklanır, oylama işlemleri manipülasyona dayanıklıdır.
+StoryChain, yaratıcı süreçlere topluluk desteği ekleyerek hikaye yazmayı daha eğlenceli ve etkileşimli hale getirir.
